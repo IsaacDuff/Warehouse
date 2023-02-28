@@ -1,0 +1,12 @@
+.backlook {
+    background-color: black;
+    margin: 40px;
+    min-height: 100vh;
+}
+
+.heroimg {
+    background-image: url(https://images.pexels.com/photos/1797428/pexels-photo-1797428.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    min-height: 70vh;
+    background-position: center;
+    background-size: cover;
+}
