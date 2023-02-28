@@ -51,3 +51,6 @@ const packages = [{
 }]
 
 
+function drawPackages() {
+
+}
