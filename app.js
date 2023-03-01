@@ -52,5 +52,16 @@ const packages = [{
 
 
 function drawPackages(packages) {
-    console.log()
+    console.log(packages[])
 }
+
+
+
+
+
+
+
+
+
+
+drawPackages()
