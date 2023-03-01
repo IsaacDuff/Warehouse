@@ -51,6 +51,6 @@ const packages = [{
 }]
 
 
-function drawPackages() {
-
+function drawPackages(packages) {
+    console.log()
 }
